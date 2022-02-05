@@ -1,3 +1,5 @@
+
+//Not Right solution it has two same elements in array so we have to write code for the elements which are same 
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
          
